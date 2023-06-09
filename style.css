@@ -1,0 +1,102 @@
+@charset "UTF-8";
+
+/* Adicionando fontes externas ao site */
+
+@import url('https://fonts.googleapis.com/css2? family=Dancing+Script:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root {
+    --font1:  Verdana, Geneva, Tahoma, sans-serif;
+    --font2: 'Passion One', cursive;
+    --font3: 'Sriracha', cursive;
+}
+
+ /* Configurações gerais*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Configurção do html e body como um todo*/
+html, body {
+    min-height: 100vh;
+    background-color: darkgrey;
+    font-family: var(--font1);
+   
+}
+
+/* Configurção do header como um todo*/
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+/* Configurando o texto do H1 */
+header > h1 {
+    font-variant: small-caps;
+    padding-top: 50px;
+    font-family: var(--font2);
+}
+
+header > p {
+    padding-bottom: 50px;
+}
+
+/* Configuração dos links como um todo */
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+/* Tirando a decoração pré definida dos links */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Configurando o section como um todo*/
+section {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+    font-family: var(--font3);
+    font-size: 20px;
+}
+
+section.normal {
+    background-color: white;
+    color: black;
+}
+
+/* Efeito Parallax no verso do poema*/
+.imagem#imagem01 {
+    background-color: rgba(0, 0, 0, 0.599);
+    color: white;
+    background-size: cover;
+    background: url('imagens/background001.jpg') center no-repeat fixed;
+}
+
+/* Efeito Parallax no verso do poema*/
+.imagem#imagem02 {
+    background-color: rgba(0, 0, 0, 0.599);
+    color: white;
+    background-size: cover;
+    background: url('imagens/background002.jpg') center no-repeat fixed;
+}
+
+/* Ajutando os paragrafos do poema*/
+section.imagem > p {
+    background-color: rgba(0, 0, 0, 0.342);
+    width: 400px;
+}
+
+/* Configuração do rosapé*/
+footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+

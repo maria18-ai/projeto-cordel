@@ -1,29 +1,28 @@
-#Projeto Cordel
+# Projeto Cordel
 
-Este projeto é um cordel digital de um poema de Milton Duarte, feito com HTML e CSS. O objetivo deste projeto é estudar e fixar os conceitos básicos de HTML e CSS.
+Um projeto para estudo de HTML e CSS. Um tipo de cordel digital.
 
-  Tecnologias utilizadas
-  
--HTML
--CSS
+## 🚀 Clonar o repositorio
 
-  Funcionalidades
+Para clonar este repositorio para sua máquina, basta copiar a URL no botão code do giithub:
 
-Exibe o poema de Milton Duarte em formato de cordel.
+![ClonarCordel](https://github.com/maria18-ai/projeto-cordel/assets/131560480/dcc83276-19a8-4c8c-88da-eccb4ed020bd)
 
-Como usar
-Para usar o projeto, siga estas etapas:
+Depois disso, basta usar o comando git init no terminal com a URL copiada: 
 
-Abra o arquivo index.html no navegador.
-Leia o poema em formato de cordel.
-Contribuições
+![Capturar](https://github.com/maria18-ai/projeto-cordel/assets/131560480/04482b9d-e649-433d-9b2e-839a8acf41c2)
 
-Contribuições são bem-vindas. Para contribuir, siga estas etapas:
 
-Faça um fork do repositório.
-Faça suas alterações.
-Envie um pull request.
-Licença
 
-Este projeto está licenciado sob a licença MIT.
+## 👩‍💻 Como utulizar?
+Abra o projeto em sua máquina, e leia o poema em cordel com as imagens e texto bem posicionados para melhor conforto de leitura. 
 
+
+## 🛠️ Construído com
+
+- HTML
+- CSS
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/maria18-ai/projeto-cordel/mit) para detalhes.

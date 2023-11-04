@@ -2,6 +2,12 @@
 
 Um projeto para estudo de HTML e CSS. Um tipo de cordel digital.
 
+## 🖱 Ferramentas necessárias para clonagem
+
+```
+NODE JS 
+```
+
 ## 🚀 Clonar o repositorio
 
 Para clonar este repositorio para sua máquina, basta copiar a URL no botão code do github:
@@ -15,6 +21,9 @@ Depois disso, basta usar o comando git init no terminal com a URL copiada:
 
 ![Capturar](https://github.com/maria18-ai/projeto-cordel/assets/131560480/04482b9d-e649-433d-9b2e-839a8acf41c2)
 
+Para usar o projeto em sua máquina, basta abrir o index HTML em seu navegador:
+
+![index](https://github.com/maria18-ai/projeto-cordel/assets/131560480/55b41e28-f55e-4c23-a32a-a49a49483722)
 
 
 ## 👩‍💻 Como utulizar?
